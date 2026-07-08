@@ -1,0 +1,4 @@
+# Dados brutos e derivados do Brasil.io (baixados manualmente, ver README > Dados)
+Dataset Covid/extract/
+Dataset Covid/*.csv.gz
+Dataset Covid/*.csv
